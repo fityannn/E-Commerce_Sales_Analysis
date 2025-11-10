@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Sales Analysis Dashboard (Power BI)
 
-### 📊 Data Analytics Project by [Fityan Abdul Khalik](https://www.linkedin.com/in/fityanabdulkhalik)
+### 📊 Data Analytics Project by [Fityan Abdul Khalik](linkedin.com/in/fityann)
 
 ---
 
