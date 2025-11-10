@@ -1,11 +1,11 @@
-# 🛍️ E-Commerce Sales Analysis Dashboard (Power BI & Python)
+# 🛍️ E-Commerce Sales Analysis Dashboard (Power BI)
 
 ### 📊 Data Analytics Project by [Fityan Abdul Khalik](https://www.linkedin.com/in/fityanabdulkhalik)
 
 ---
 
 ## 🚀 Project Overview
-This project presents a comprehensive **E-Commerce Sales Analysis**, showcasing the full analytics workflow — from data cleaning and transformation using **Python**, to dynamic visualization in **Power BI**.
+This project presents a comprehensive **E-Commerce Sales Analysis**, showcasing the full analytics workflow — from data cleaning and transformation, to dynamic visualization in **Power BI**.
 
 The goal is to demonstrate how analytical thinking and visualization design can transform raw sales data into clear business insights that support strategic decision-making.
 
@@ -20,7 +20,6 @@ The goal is to demonstrate how analytical thinking and visualization design can 
 ---
 
 ## 🧠 Skills Demonstrated
-- **Data Cleaning & Transformation:** Python (Pandas, NumPy)  
 - **Data Visualization:** Power BI (Custom Theme, DAX, KPIs)  
 - **Data Modeling:** Star schema with relationships between tables  
 - **Business Insights:** Translating metrics into actionable insights  
