@@ -55,7 +55,7 @@ The goal is to demonstrate how analytical thinking and visualization design can 
 ## 📢 About the Author
 Fityan Abdul Khalik — Aspiring Data Analyst passionate about turning raw data into insights.
 Experienced with Power BI, SQL, and Python analytics workflows.
-📫 [LinkedIn](linkedin.com/in/fityann)] | [Email](mailto:fityan.abdul@gmail.com)
+📫 [LinkedIn](linkedin.com/in/fityann) | [Email](mailto:fityan.abdul@gmail.com)
 
 ## ⭐ If you like this project, consider giving it a star!
 This helps more recruiters and data enthusiasts discover it 🚀
